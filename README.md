@@ -3,6 +3,8 @@ A simple electronics online shop.
 
 <img src="img/Shop.jpg">
 
+<img src="img/Cart.jpg">
+
 # Inspiration
 This is the front end application for the Online Shop app, developed during the Java Bootcamp. 
 The back end was developed separately (https://github.com/dieterhalosta/online-shop) using Java, Spring Boot and MySQL.
